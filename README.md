@@ -6,7 +6,7 @@
 # 👋 Hi, I'm <strong>Praveen Kumar Bhardwaj</strong>  
 <p align="center">
  
-🌱 Passionate Developer • 🚀 Open Source Contributor • 🤖 Machine Learning Enthusiast  
+🌱 Passionate Developer • 🚀 Open Source Contributor • 🤖 DEV  
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=praveenbhardwaj&style=flat&color=brightgreen)  
@@ -113,9 +113,8 @@
 <p align="center">
   <img src="./assets/divider.svg" alt="section divider" width="100%" />
 </p>
-- 🔬 **Polymer Property Prediction AI** → Sustainable Materials Screening  
-- 📊 **Dev Widget (Flutter)** → LeetCode, GFG, GitHub Stats with Weekly Graph  
-- 🤝 **GSsoc/SSOC Contributions** → Open Source Growth  
+
+- 🔬 **Finance tracker** → Gullak AI  
 
 
 
