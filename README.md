@@ -43,7 +43,7 @@
   
   <img src="./assets/divider.svg" alt="section divider" width="100%" />
 
-  <img src="https://streak-stats.demolab.com?user=praveenbhardwaj&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=praveenbhardwaj&theme=tokyonight" />
 </p>
 
 
