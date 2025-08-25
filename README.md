@@ -76,9 +76,7 @@
   <img src="./assets/divider.svg" alt="section divider" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/praveenbhardwaj/praveenbhardwaj/output/dist/github-snake.svg" />
-</p>
+
 
 <p align="center">
   <picture>
