@@ -40,13 +40,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=praveenbhardwaj&show_icons=true&theme=tokyonight" />
-
   
   <img src="./assets/divider.svg" alt="section divider" width="100%" />
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenbhardwaj&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=praveenbhardwaj&theme=tokyonight" />
 </p>
+
 
 <p align="center">
   <img src="./assets/divider.svg" alt="section divider" width="100%" />
