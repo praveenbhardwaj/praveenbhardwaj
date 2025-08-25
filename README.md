@@ -45,8 +45,9 @@
   <img src="./assets/divider.svg" alt="section divider" width="100%" />
 
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenbhardwaj&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenbhardwaj&theme=tokyonight" />
 </p>
+
 <p align="center">
   <img src="./assets/divider.svg" alt="section divider" width="100%" />
 </p>
