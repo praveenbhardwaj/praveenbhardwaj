@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm <strong>Praveen Kumar Bhardwaj</strong>  
+# 👋 Hi, I'm <strong>Praveen Bhardwaj</strong>  
 <p align="center">
  
 🌱 Passionate Developer • 🚀 Open Source Contributor • 🤖 DEV  
